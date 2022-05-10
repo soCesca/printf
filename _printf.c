@@ -5,7 +5,7 @@
  * @format: input string.
  *
  * Return: number of chars printed.
- * Authors: Frank ....
+ * Authors: Francesca Lynn Asiedu-Asare and Frank Daniels
  */
 int _printf(const char *format, ...)
 {
